@@ -21,7 +21,7 @@ def layout_principal():
             sg.Input(size=DEFAULT_INPUT_SIZE,
             key='altura',
             justification='center',
-            tooltip='Insira sua Altura em Centrimetros')
+            tooltip='Insira sua Altura em Centrímetros')
         ],
 
         [sg.Text("Peso (em Kilos):", size=DEFAULT_TEXT_SIZE),
