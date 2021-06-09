@@ -17,7 +17,7 @@ def layout_principal():
 
 
         # -- Input do usuário
-        [sg.Text("Altura (em centímetos):", size=DEFAULT_TEXT_SIZE),
+        [sg.Text("Altura (em Centrímetros):", size=DEFAULT_TEXT_SIZE),
             sg.Input(size=DEFAULT_INPUT_SIZE,
             key='altura',
             justification='center',
