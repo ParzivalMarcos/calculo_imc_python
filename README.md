@@ -14,7 +14,7 @@ Foi utilizado como base, a seguinte tabela para os calculos.
 | Mais do que 40 | Obesidade grau 3 |
 > *Fonte: https://www.minhavida.com.br/alimentacao/tudo-sobre/32159-imc*
 
-![]('imgs/uso.gif')
+<img src="imgs/uso.gif">
 
 
 ## Requisitos
